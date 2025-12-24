@@ -85,7 +85,7 @@ print("\nPredicted Species:", iris.target_names[prediction][0])
 ```
 
 ## Output:
-![prediction of iris species using SGD Classifier](sam.png)
+
 
 
 ## Result:
