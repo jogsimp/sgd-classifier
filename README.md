@@ -84,7 +84,8 @@ print("\nPredicted Species:", iris.target_names[prediction][0])
 */
 ```
 
-## Output:
+## Output:![WhatsApp Image 2025-12-26 at 8 20 14 AM](https://github.com/user-attachments/assets/b8f79c4c-1851-4be6-bf4d-f6cdc09f53d2)
+
 
 
 
